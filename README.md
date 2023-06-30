@@ -1,3 +1,4 @@
+** This repo is deprecated, BSC Erigon is supported in: https://github.com/node-real/bsc-erigon**
 # Erigon
 
 Erigon is an implementation of Ethereum (execution client), on the efficiency frontier, written in Go.
